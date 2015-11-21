@@ -1,4 +1,4 @@
-# NRPE-NG - a modern alternative to nagios nrpre protocol
+# NRPE-NG - a modern alternative to nagios nrpe protocol
 
 ## Intention
 
